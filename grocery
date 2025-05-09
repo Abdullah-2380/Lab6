@@ -6,3 +6,4 @@
         groceryItems.Add("Apples");
         foreach (string item in groceryItems)
         {  Console.WriteLine("- " + item);}
+         gorceryitem.Add("Oil");
